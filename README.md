@@ -2,11 +2,6 @@
   <br>Atividade Modulo 4 - RecodePro
 </h1>
 
-<p align="center">
-  <a href="https://meek-hotteok-bc030e.netlify.app/">
-    <b>🚀Acesse o site projeto em funcionamento 🚀</b>
-  </a>
-
 ### 💼 Conteudo utilizado ###
 Para o desenvolvimento deste projeto utilizei as seguintes tecnologias:
 
